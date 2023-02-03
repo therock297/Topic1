@@ -1,0 +1,56 @@
+h1{
+
+    font-size: 40px;
+    background-color: lightblue;
+    font-style: italic;
+}
+h1:hover, h1:active { font-size: 200%;
+background-color: blueviolet;}
+header
+{
+    padding-bottom: 20px;
+}
+section{
+    padding-bottom: 5px;
+}
+/* #container{
+    display: flex;
+    justify-content: space-between;
+} */
+img{
+    box-shadow: 10px 13px 17px;
+}
+h3:hover, h3:active {
+    font-size: 200%; background-color: yellow;}
+h3{
+    font-size: 25px;
+    background-color: rgba(73, 73, 201, 0.3);
+    background-image: linear-gradient(to right, rgba(21, 249, 70, 0), rgb(8, 241, 194));
+    
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: grey;
+}
+/* h3:hover{
+    background-color: yellow;
+} */
+p{
+    font-size: 20px;
+    color:seagreen
+}
+
+li, pre{    
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    color: black
+}
+
+body{
+    /* background-image: url("madhav.png"); */
+    /* background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+  }
+img
+{margin-left: 670px;
+}
+
