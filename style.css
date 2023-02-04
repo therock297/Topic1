@@ -54,3 +54,9 @@ img
 {margin-left: 670px;
 }
 
+#img:hover
+{
+    transition: 0.03s ease-in-out;
+    transform: scale(1.1);
+}
+
